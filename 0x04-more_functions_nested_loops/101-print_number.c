@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * main - check the code
+ * print_number - prints an integer
+ * @n:.input integer parameter
  *
- * Return: Always 0.
+ *Owned by Bwave ICT/ Bright Daniel
  */
 void print_number(int n)
 {
